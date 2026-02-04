@@ -1,0 +1,23 @@
+# ===== Java =====
+*.class
+/bin/
+/build/
+/dist/
+/out/
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+nbproject/private/
+
+# ===== Angular / Node =====
+node_modules/
+/dist/
+/.cache/
+npm-debug.log*
+yarn-debug.log*
+
+# ===== SO =====
+.DS_Store
+Thumbs.db
